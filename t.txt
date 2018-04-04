@@ -1,4 +1,1 @@
-hello git
-git world is fun!
-git is used to manage code.
-hello me!
+git is the manage code
